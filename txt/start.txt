@@ -1,0 +1,1 @@
+Reading text from the file
